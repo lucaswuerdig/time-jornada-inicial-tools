@@ -28,7 +28,11 @@ Os arquivos ficam em `.claude/`, no mesmo formato que o Claude Code lê. Assim, 
         ├── coding-guidelines/
         │   └── SKILL.md
         ├── descricao-de-pr/
-        │   └── SKILL.md
+        │   ├── SKILL.md
+        │   └── templates/
+        │       ├── feature.md
+        │       ├── fix.md
+        │       └── infra.md
         ├── desenvolver-tarefa/
         │   └── SKILL.md
         ├── gerar-prd/
